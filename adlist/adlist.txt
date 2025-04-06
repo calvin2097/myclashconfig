@@ -1,1 +1,2 @@
+*.pornhub.com###customSkinCTA
 cn.pornhub.com###customSkinCTA
