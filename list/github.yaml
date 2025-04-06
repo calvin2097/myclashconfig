@@ -1,4 +1,4 @@
 payload:
-  - +.github
-  - +.github.com
-  - +.githubusercontent.com
+    - +.github
+    - +.github.com
+    - +.githubusercontent.com
