@@ -5,3 +5,5 @@ payload:
   - +.gstatic.com
   - +.ggpht.com
   - +.googlevideo.com
+  - +.docker.io
+  - +.docker.com
