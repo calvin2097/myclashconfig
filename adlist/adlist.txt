@@ -1,2 +1,2 @@
 !https://tsvideo.saawsedge.com/video/ol_d012d2371b63d263151b557f5891e3ca.mp4
-||saawsedge.com/video/*.mp4^
+||saawsedge.com/video/*mp4^
