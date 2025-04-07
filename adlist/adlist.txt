@@ -1,3 +1,4 @@
 ||github.io/upload/*.jpg
 !||github.io/upload/$image
 ||github.io/upload/pic.jpg
+https://isooc.github.io/upload/*.jpg
