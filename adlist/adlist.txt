@@ -1,1 +1,2 @@
-/isooc.github.io/upload/*.jpg/
+||github.io/upload/*.jpg
+!||github.io/upload/$image
