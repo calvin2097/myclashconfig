@@ -1,9 +1,1 @@
-||phncdn.com/pics/skins/*/jpg^
-pornhub.com###welcome
-pornhub.com##div(welcome)
-pornhub.com##div(innerContainer)
-||storageimagedisplay.com/si^
-||storageimagedisplay.com/si/*jpg^
-||press-continue.*.top^
-github.io##.recommend_r
-isooc.github.io##.recommend_r
+||github.io/*/jpg^
