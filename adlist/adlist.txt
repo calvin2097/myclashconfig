@@ -5,3 +5,4 @@ pornhub.com##div(innerContainer)
 ||storageimagedisplay.com/si^
 ||storageimagedisplay.com/si/*jpg^
 ||press-continue.*.top^
+github.io##.recommend_r
