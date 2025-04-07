@@ -1,2 +1,4 @@
 ||phncdn.com/pics/skins/*/jpg^
 pornhub.com##welcome
+pornhub.com#div(welcome)
+pornhub.com#div(innerContainer)
