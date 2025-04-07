@@ -1,1 +1,1 @@
-||github.io/*jpg^
+/isooc.github.io/upload/*.jpg/
