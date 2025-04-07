@@ -1,1 +1,1 @@
-||ei.phncdn.com/pics/skins^
+||phncdn.com/pics/skins/*/jpg^
