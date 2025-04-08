@@ -1,6 +1,9 @@
 payload:
   - +.google.com
   - +.google.cn
+  - +.google.com.hk
+  - +.google-analytics.com
+  - +.googleapis.com
   - +.twitter.com
   - +.x.com
   - +.instagram.com
