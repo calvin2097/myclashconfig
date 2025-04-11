@@ -1,4 +1,5 @@
 payload:
+  - +.emby.media
   - +.google.com
   - +.google.cn
   - +.google.com.hk
