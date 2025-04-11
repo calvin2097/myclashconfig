@@ -2,3 +2,4 @@ payload:
     - +.github.com
     - +.githubusercontent.com
     - +.github.io
+    - +.ghcr.io
