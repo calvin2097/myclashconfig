@@ -1,4 +1,5 @@
 payload:
+  - +.cloudflare.com
   - +.shutterstock.com
   - +.sleazyfork.org
   - +.notepad-plus-plus.org
