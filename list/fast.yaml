@@ -1,5 +1,6 @@
 payload:
   - +.cloudflare.com
+  - +.tbonx.com
   - +.ssrdog.com
   - +.shutterstock.com
   - +.sleazyfork.org
