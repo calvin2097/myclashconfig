@@ -1,4 +1,5 @@
 payload:
+  - +.vcpkg.io
   - +.cloudflare.com
   - +.tbonx.com
   - +.ssrdog.com
