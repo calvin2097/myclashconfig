@@ -1,5 +1,4 @@
 payload:
-  - +.recombee.com
   - +.goodreads.com
   - +.javdb.com
   - +.javdb
@@ -17,3 +16,4 @@ payload:
   - +.pinterest.com
   - +.gyrls.com
   - +.btdig.com
+  - +.recombee.com
