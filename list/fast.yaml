@@ -1,4 +1,6 @@
 payload:
+  - +.play.googleapis.com
+  - +.googleapis.com
   - +.eyny.com
   - +.69shuba.tw
   - +.vcpkg.io
