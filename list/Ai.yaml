@@ -1,6 +1,12 @@
 payload:
+  - '+.google.com'
+  - '+.googleapis.com'
+  - '+.googleusercontent.com'
+  - '+.gstatic.com'
+  - '+.gemini.google.com'
+  - '+.openai.com'
+  - '+.ai.com'
   - +.ai.google.dev
-  - +.gemini.google.com
   - +.mtalk.google.com
   - +.googletagmanager.com
   - servd-anthropic-website.b-cdn.net
